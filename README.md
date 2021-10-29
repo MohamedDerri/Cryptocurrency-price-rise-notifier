@@ -1,0 +1,1 @@
+# this minimal script will notify you whenever a selected currency's value has been rised, multiplied by 10 ..etc you are free to use this script, u can modify it to feed your needs, also, u can contribute to this repo if u have any other cool features
